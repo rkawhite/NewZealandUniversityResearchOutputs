@@ -1,0 +1,124 @@
+CONZUL OA Data Research Notes
+Reports and infographics: CONZUL website for infographics and reports 
+https://www.universitiesnz.ac.nz/about-universities-new-zealand/unz-committees-and-working-groups/council-new-zealand-university
+
+Code for the program:
+github.com/bruce-white-mass/conzul-oa-project 
+
+Our definitions of OA types 
+Our modified Unpaywall categories
+Type of Open Access (OA)
+Definition
+Gold OA
+Published version is immediate OA. APC charged.
+Hybrid OA
+Publication is subscription-based. APC can be paid to make individual articles OA.
+Bronze OA
+Currently free to read on publisher’s site but licence not clear.
+Green OA
+Freely accessible in a reputable repository (i.e. academic social networking sites are not included). Publisher’s version is paywalled.
+Closed
+Published version is paywalled.
+Diamond OA
+Published version is free. No APC charged. (derived from Unpaywall=Gold and no APC listed in DOAJ).
+
+Research questions
+What is the overall proportion of closed/open for my university? 
+What is the overall proportion of closed/open for material where the corresponding author is from my university? 
+What are the proportions for journal articles v other types of material? 
+What average citations rates are associated with each of the above? 
+ 
+For open material, how were the publications made open? I.e. type of OA? 
+What was the list price for APCs my university might have incurred? (I.e. gold+hybrid where corresponding author) 
+How many were made available for free? (I.e. diamond+green) 
+How many in total are available via a repository? 
+How many might change to closed? (i.e. bronze not in a repository) 
+ 
+For Green,  
+how many are in my own repository? 
+how many are uniquely in my repository? 
+how many closed articles could be deposited in the repository? 
+ 
+Who are our authors publishing with? 
+Overall all authors are publishing with which publishers? 
+When the CA is from my university, where are they publishing? 
+When the article is in a Gold journal, where are we publishing? 
+When the article is in a Hybrid journal, where are we publishing? 
+ 
+How do I produce a report by department for my university? 
+ 
+What is funded by my university? 
+Funder data
+Two columns with Funder information 
+WoS info called 'Funders' (column AV) 
+Crossref funders (column AW) 
+ 
+Save as... new file and add funders to title 
+ 
+New worksheet (temporary for creating new funder-only data) 
+Use AV to filter text for a funder (e.g. 'University of otago) 
+Paste all that to temp sheet 
+Use AW to filter text for a funder (e.g. 'University of otago) 
+Paste all that to temp sheet 
+Go to Data worksheet – delete all 
+On temp worksheet remove duplicate rows 
+Select all and paste temp funder data into original Data worksheet 
+Then you can refresh any of your original PTs 
+
+Green questions
+Number of articles where repository makes the difference 
+Go to PT1  
+Copy PT to the bottom  
+Add to filters 
+'In local repository' = yes 
+Number of repositories = 1 
+On the PT filter OA Status to include only Bronze and Green 
+This gives the number of publications where there is only a green version available. 
+e.g. Otago 2018 research data – 12 uniquely in OUR Archive and 1 in a Bronze journal that could change status at publisher's discretion 
+
+
+Closed articles that could be green 
+Filters 
+Author count >20 = no 
+Archive accepted manuscript (set as appropriate) 
+Archive published version (set as appropriate) 
+Corresponding author is local (optional – note local authors are listed) 
+
+APC costs
+Already done as PT3 for overview 
+ 
+Who are we publishing with? 
+ 
+1. Create new sheet with a PT with all the original data 
+ 
+Rows – Publisher 
+Values  
+Publisher x2 (change second one to % of Grand total) 
+USD APC x 2 (leave one on Sum; change other to average) 
+Crossref citations (change to average) 
+ 
+Add Filters 
+'Corresponding author is local' - set to yes 
+OA status  
+Author count >20 = No 
+Sort using 'Row labels' in PT ('...more sort options' then descending by publisher count) 
+ 
+ 
+You can change the filter to Green as well to see the price that you've 'saved' by having a Green version open and not paying the Hybrid fee. 
+ 
+ 
+Then you click on any of the 'Count' fields in the PT to list all the articles for that publisher, which can give you further info like the journal titles or the departments. 
+ 
+Citation averages
+Using the existing PT1 data click on the Pivot table (PT) 
+Add Crossref citations column 
+Change to average (not sum) 
+Repeat for second PT 
+Change decimal places to 2 
+ 
+ 
+Then copy both PTs and then you can filter on subsets of type of material and compare side by side 
+ 
+ 
+Then copy PT1 and change filter to local authors = yes 
+
