@@ -1,0 +1,15 @@
+1056 lines read
+1044/1056 lines processed (98%)
+1044 valid lines
+407 OA documents found (38%)
+12 errors
+12 DOIs not found
+0 lines not executed
+
+Input file	lincoln_doi.csv
+Web of Science file:	lincoln_wos.csv
+Scopus file:	lincoln_scopus.csv
+Repository address:	researcharchive.lincoln.ac.nz
+Web of Science institutional address:	Lincoln Univ
+Scopus institutional address	Lincoln University
+Scopus alternative institutional address	Lincoln Agritech
