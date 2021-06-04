@@ -1,0 +1,14 @@
+5585 lines read
+5418/5585 lines processed (97%)
+5553 valid lines
+2553 OA documents found (45%)
+32 errors
+32 DOIs not found
+135 lines not executed
+
+Input file	otago_doi.csv
+Web of Science file:	otago_wos.csv
+Scopus file:	otago_scopus.csv
+Repository address:	ourarchive.otago.ac.nz
+Web of Science institutional address:	Univ Otago
+Scopus institutional address	University of Otago
