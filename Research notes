@@ -2,27 +2,24 @@ CONZUL OA Data Research Notes
 Reports and infographics: CONZUL website for infographics and reports 
 https://www.universitiesnz.ac.nz/about-universities-new-zealand/unz-committees-and-working-groups/council-new-zealand-university
 
-Code for the program:
-github.com/bruce-white-mass/conzul-oa-project 
+# **Code for the program:**
+https://github.com/bruce-white-mass/conzul-oa-project 
 
-Our definitions of OA types 
-Our modified Unpaywall categories
-Type of Open Access (OA)
-Definition
-Gold OA
+# **Our definitions of OA types **
+* Gold OA
 Published version is immediate OA. APC charged.
-Hybrid OA
+* Hybrid OA
 Publication is subscription-based. APC can be paid to make individual articles OA.
-Bronze OA
+* Bronze OA
 Currently free to read on publisher’s site but licence not clear.
-Green OA
+* Green OA
 Freely accessible in a reputable repository (i.e. academic social networking sites are not included). Publisher’s version is paywalled.
-Closed
+* Closed
 Published version is paywalled.
-Diamond OA
+* Diamond OA
 Published version is free. No APC charged. (derived from Unpaywall=Gold and no APC listed in DOAJ).
 
-Research questions
+# **Research questions**
 What is the overall proportion of closed/open for my university? 
 What is the overall proportion of closed/open for material where the corresponding author is from my university? 
 What are the proportions for journal articles v other types of material? 
